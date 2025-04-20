@@ -1,4 +1,3 @@
-```markdown
 # AI Documentation Helper
 
 ## Table of Contents
@@ -68,4 +67,3 @@ AI: The API allows clients to perform CRUD operations on user resources...
 - [LangChain](https://github.com/langchain/langchain)  
 - [Pinecone](https://www.pinecone.io/)  
 - [Google AI](https://cloud.google.com/ai)
-```
